@@ -5,7 +5,7 @@ import numpy as np
 import itertools
 import time
 
-st.title("🎯 FAST Lottery Optimizer")
+st.title("🎯 4 number (1,4,2,1) Lottery Optimizer")
 
 # Step 1: Upload Excel
 uploaded_file = st.file_uploader("Upload your lottery Excel file", type=["xlsx"])
